@@ -1,3 +1,0 @@
-# microservice specific routes
-
-GET        /hello-world             uk.gov.hmrc.s3stub.controllers.MicroserviceHelloWorld.hello
